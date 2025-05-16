@@ -1,2 +1,6 @@
 # -API-Pagamentos-Segura-com-Azure-API-Management
 Projeto do curso da Dio.me 
+
+Sobre o desafio
+Este projeto tem como foco a criação de uma API de Pagamentos Segura utilizando os recursos do Azure API Management. Foram implementadas boas práticas de design de endpoints, seguindo padrões RESTful para garantir clareza e escalabilidade na comunicação. A segurança foi reforçada com o uso de JWT (JSON Web Tokens) para autenticação e autorização dos acessos à API. Os serviços da API foram hospedados no Azure App Service, garantindo alta disponibilidade e integração com outros recursos da nuvem. Trabalhamos também com a configuração e manipulação de CORS (Cross-Origin Resource Sharing), permitindo o controle de acesso de domínios externos. O Azure API Management foi utilizado para expor, monitorar e proteger os endpoints da API com políticas customizadas. Cada rota da API foi cuidadosamente estruturada para refletir operações seguras e eficientes no processo de pagamento. As respostas da API seguem padrões de status HTTP e mensagens claras para facilitar a integração com o front-end. Além disso, foram aplicadas técnicas de versionamento da API, pensando na evolução do sistema sem impactar integrações existentes. O projeto serve como base sólida para sistemas financeiros que demandam segurança, performance e organização arquitetural.
+
